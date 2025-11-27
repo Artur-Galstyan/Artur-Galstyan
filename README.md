@@ -20,6 +20,6 @@ _You are given an old scroll that has a few lines scribbled on them. They read_:
 
 _You keep reading the scroll, fascinated by this wizard. As he laughs or coughs - you can't really tell the difference - he nods._
 
-Now you understand don't you, he asks.
+Now you understand, don't you, he asks.
 
 You do. Time to code.
